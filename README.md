@@ -5,6 +5,9 @@ All collections about Javascript Stack.
 - https://www.javascript.com/
 - Note HackerRank: https://github.com/anishLearnsToCode/hackerrank-js-basic-skill-test
 
+## Javascript Learning:
+![Image Mindmap Learning Javascript](https://media.licdn.com/dms/image/D4D22AQFEn090psS84Q/feedshare-shrink_800/0/1693546903468?e=1706140800&v=beta&t=ZSzhMH2PxkIZ2NlfM0ho_lrrd_z88p5eKr915cmRM1g)
+
 ## Tools and Setup Javascript environment
 - Visual studio code: https://code.visualstudio.com/
 - Live server plugin on Visual Code: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
